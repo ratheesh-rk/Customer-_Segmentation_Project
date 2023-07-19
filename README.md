@@ -22,7 +22,7 @@ Age had a negative correlation, suggesting that older customers were less likely
 Family size exhibited a positive correlation, indicating that larger families were more likely to belong to specific segments.
 Work experience showed minimal correlation, indicating it had little impact on customer segmentation.
 
-##Findings:
+## Findings:
 
 The correlation analysis provided valuable insights into the factors influencing customer segmentation. Age and family size emerged as significant predictors of customer segments. Work experience, on the other hand, had a negligible impact on customer segmentation.
 
